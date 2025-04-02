@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CPU.png</file>
+        <file>GPU.png</file>
+        <file>MONITOR.png</file>
+        <file>RAM.png</file>
+    </qresource>
+</RCC>
