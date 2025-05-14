@@ -35,4 +35,8 @@ Built using **C++**, **Qt**, and **Bash scripts**, this tool gathers hardware sp
 ## 📸 Screenshot
 
 > ![image](https://github.com/user-attachments/assets/45ce09a4-787d-4301-ab96-101ba21a8ea8)
+> 
+>![Screenshot_2025-05-14_14_05_28](https://github.com/user-attachments/assets/561b13c6-7b5f-46b6-afef-6b8e283362f2)
+
+
 
